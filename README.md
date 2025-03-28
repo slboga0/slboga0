@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Samuel Bogale
+# 👋 Hi, I'm Sam Bogale
 
 ## 🧑‍💻 About Me
 I'm a Senior Software Engineer with 10+ years of experience building scalable systems, leading data analytics projects, and developing ML-powered solutions. I enjoy solving real-world problems through clean code, thoughtful architecture, and collaboration.
