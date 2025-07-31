@@ -5,7 +5,6 @@
 I'm a Senior Software Engineer with 10+ years of experience building scalable systems, leading data analytics projects, and developing ML-powered solutions. I enjoy solving real-world problems through clean code, thoughtful architecture, and collaboration.
 
 ## 🚀 What I'm Working On
-- 🧠 Fraud detection systems using machine learning (Python, AWS)
 - 🏇 Horse racing prediction model (personal ML project)
 - 🔧 Feature engineering tools for big data workflows
 - ☁️ Scalable backend APIs using Python and Go
@@ -14,7 +13,6 @@ I'm a Senior Software Engineer with 10+ years of experience building scalable sy
 `Python` · `Go` · `Java` · `C++` · `AWS` · `Databricks` · `PySpark` · `SQL` · `Docker` · `Microservices` · `Machine Learning`
 
 ## 📂 Featured Projects
-- 🧪 **Fraud Detection Engine** – ML-based identity & non-ID fraud detection
 - 🏇 **Horse Racing Predictor** – Data-driven model built with Python and Pandas
 - ⚙️ **Automation Scripts** – DevOps tools for streamlining Java application deployments
 - 📊 **Data Pipeline** – ETL pipeline for 10+ TB daily processing with PySpark & Databricks
